@@ -1,0 +1,6 @@
+This is mostly a demo script.
+It shows:
+How to access WordPress via a CLI script
+How to CURL into WordPress - even the wp-admin
+How to access parameters sent from the CLI or as a url parameter
+How to make a script run for a long time with out timing out
